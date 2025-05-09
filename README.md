@@ -26,8 +26,8 @@
 
 1. 克隆项目到本地：
 ```bash
-git clone [项目地址]
-cd pixiv_crawler
+git clone https://github.com/cnYvesLi/PixivCrawler)
+cd PixivCrawler
 ```
 
 2. 安装依赖：
